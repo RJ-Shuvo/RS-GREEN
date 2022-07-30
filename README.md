@@ -33,8 +33,8 @@ $ git clone https://github.com/RJ-Shuvo/RS-GREEN
 ```
 #### RUN SCRIPT
 ```python
-$ 
-$ python 
+$ cd RS-GREEN
+$ python RJ-SPEACIAL-GREEN.py
 ```
 
 
