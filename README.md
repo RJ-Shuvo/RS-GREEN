@@ -29,7 +29,7 @@ $ 'pip install requests
 $ pip install futures
 $  pip install bs4
 $ pkg install git 
-$ git clone 
+$ git clone https://github.com/RJ-Shuvo/RS-GREEN
 ```
 #### RUN SCRIPT
 ```python
