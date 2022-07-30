@@ -25,9 +25,9 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
 ```python
 $ apt update && apt upgrade
 $ apt install python
-$ 'pip install requests
-$ pip install futures
-$  pip install bs4
+$ pip install requests
+$ pip install rich
+$ pip install bs4
 $ pkg install git 
 $ git clone https://github.com/RJ-Shuvo/RS-GREEN
 ```
