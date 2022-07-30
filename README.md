@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="120" height="120" align="left">
 <center>
   
@@ -25,12 +31,12 @@ $ 'pip install requests
 $ pip install futures
 $  pip install bs4
 $ pkg install git 
-$ git clone https://github.com/RJ-Shuvo/RJ-Fileclone
+$ git clone 
 ```
 #### RUN SCRIPT
 ```python
-$ RJ-Fileclone
-$ python RJ-File.py
+$ 
+$ python 
 ```
 
 
